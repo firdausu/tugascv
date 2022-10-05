@@ -38,6 +38,34 @@ you can use the generic selector below, but it's slower:
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 }
+.fa-school{  
+	display: flex;
+  align-items: center;
+  justify-content: center;
+	background: #cc0c0c;  
+	color: white;  
+  }  
+.fa-whatsapp {  
+	display: flex;
+  align-items: center;
+  justify-content: center;
+	background: #4dd40e;  
+	color: white;  
+  }  
+  .fa-github {  
+	display: flex;
+  align-items: center;
+  justify-content: center;
+	background: #000000;  
+	color: white;  
+  } 
+  .fa-google {  
+	display: flex;
+  align-items: center;
+  justify-content: center;
+	background: #cc0c0c;  
+	color: white;  
+  }  
 .arrow_up:before {
 	content: "\21";
 }
